@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Drew's First Hugo Site"
+theme = 'ananke'
