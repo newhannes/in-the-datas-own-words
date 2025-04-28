@@ -2,3 +2,45 @@ baseURL = 'drew-first-site.netlify.app'
 languageCode = 'en-us'
 title = "The Ordinary Business of Life"
 theme = "hermit-v2"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+[params.author]
+  name = "CHANGE SITE AUTHOR"
+  about = "CHANGE SITE AUTHOR ABOUT"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  [[params.socialLinks]]
+    name = "mastodon"
+    url = "https://joinmastodon.org/"
+
+  [[params.socialLinks]]
+    name = "x"
+    url = "https://twitter.com/"
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
