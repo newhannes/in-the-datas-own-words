@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drew&#39;s First Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Drew&#39;s First Hugo Site</description>
+    <title>The Ordinary Business of Life</title>
+    <link>drew-first-sire.netlify.app/</link>
+    <description>Recent content on The Ordinary Business of Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="drew-first-sire.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

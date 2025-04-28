@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-04-26T18:15:23-04:00</lastmod>
+    <loc>drew-first-sire.netlify.app/posts/</loc>
+    <lastmod>2025-04-27T23:09:18-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-04-26T18:15:23-04:00</lastmod>
+    <loc>drew-first-sire.netlify.app/</loc>
+    <lastmod>2025-04-27T23:09:18-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>drew-first-sire.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>drew-first-sire.netlify.app/tags/</loc>
   </url>
 </urlset>
