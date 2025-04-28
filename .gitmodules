@@ -4,3 +4,7 @@
 [submodule "themes/void"]
 	path = themes/void
 	url = https://github.com/Daucloud/hugo-theme-void
+[submodule "themes/hermit-v2"]
+	path = themes/hermit-v2
+	url = https://github.com/1bl4z3r/hermit-V2
+	branch = main

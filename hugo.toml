@@ -1,4 +1,4 @@
 baseURL = 'drew-first-site.netlify.app'
 languageCode = 'en-us'
 title = "The Ordinary Business of Life"
-theme = "void"
+theme = "hermit-v2"
