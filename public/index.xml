@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Ordinary Business of Life</title>
-    <link>drew-first-sire.netlify.app/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on The Ordinary Business of Life</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="drew-first-sire.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Apr 2025 23:09:18 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>//localhost:1313/posts/second-post/</link>
+      <pubDate>Sun, 27 Apr 2025 23:09:18 -0400</pubDate>
+      <guid>//localhost:1313/posts/second-post/</guid>
+      <description>&lt;h1 id=&#34;my-second-post&#34;&gt;My Second Post&lt;/h1&gt;&#xA;&lt;p&gt;This is my second post. It is not in the content/posts folder. It is just in the content folder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 26 Apr 2025 18:15:23 -0400</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text. This is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;First post yay!&lt;/p&gt;&#xA;&lt;p&gt;If I edit here will it show up on the localhost server? It does!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

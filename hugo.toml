@@ -1,4 +1,4 @@
 baseURL = 'drew-first-sire.netlify.app'
 languageCode = 'en-us'
 title = "The Ordinary Business of Life"
-theme = 'ananke'
+theme = "void"
