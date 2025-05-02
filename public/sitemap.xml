@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>in-the-datas-own-words.netlify.app/</loc>
     <lastmod>2025-05-01T00:13:49-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>in-the-datas-own-words.netlify.app/posts/</loc>
     <lastmod>2025-05-01T00:13:49-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>in-the-datas-own-words.netlify.app/tags/</loc>
     <lastmod>2025-05-01T00:13:49-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/test/</loc>
+    <loc>in-the-datas-own-words.netlify.app/posts/test/</loc>
     <lastmod>2025-05-01T00:13:49-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/yeah-man/</loc>
+    <loc>in-the-datas-own-words.netlify.app/tags/yeah-man/</loc>
     <lastmod>2025-05-01T00:13:49-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-third-post/</loc>
+    <loc>in-the-datas-own-words.netlify.app/posts/my-third-post/</loc>
     <lastmod>2025-04-28T00:00:20-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/second-post/</loc>
+    <loc>in-the-datas-own-words.netlify.app/posts/second-post/</loc>
     <lastmod>2025-04-27T23:09:18-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <loc>in-the-datas-own-words.netlify.app/posts/my-first-post/</loc>
     <lastmod>2025-04-26T18:15:23-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>in-the-datas-own-words.netlify.app/about/</loc>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>in-the-datas-own-words.netlify.app/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>in-the-datas-own-words.netlify.app/categories/</loc>
   </url>
 </urlset>

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>In the Data&#39;s Own Words</title>
-    <link>//localhost:1313/</link>
+    <link>in-the-datas-own-words.netlify.app/</link>
     <description>Recent content on In the Data&#39;s Own Words</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 00:13:49 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="in-the-datas-own-words.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>//localhost:1313/posts/test/</link>
+      <link>in-the-datas-own-words.netlify.app/posts/test/</link>
       <pubDate>Thu, 01 May 2025 00:13:49 -0400</pubDate>
-      <guid>//localhost:1313/posts/test/</guid>
+      <guid>in-the-datas-own-words.netlify.app/posts/test/</guid>
       <description>&lt;h2 id=&#34;my-fourth-post-i-believe&#34;&gt;My Fourth Post I believe?&lt;/h2&gt;
 &lt;p&gt;Can this work?&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Third Post</title>
-      <link>//localhost:1313/posts/my-third-post/</link>
+      <link>in-the-datas-own-words.netlify.app/posts/my-third-post/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:20 -0400</pubDate>
-      <guid>//localhost:1313/posts/my-third-post/</guid>
+      <guid>in-the-datas-own-words.netlify.app/posts/my-third-post/</guid>
       <description>&lt;p&gt;The theme is working!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>//localhost:1313/posts/second-post/</link>
+      <link>in-the-datas-own-words.netlify.app/posts/second-post/</link>
       <pubDate>Sun, 27 Apr 2025 23:09:18 -0400</pubDate>
-      <guid>//localhost:1313/posts/second-post/</guid>
+      <guid>in-the-datas-own-words.netlify.app/posts/second-post/</guid>
       <description>&lt;p&gt;This is my second post. It is not in the content/posts folder. It is just in the content folder.&lt;/p&gt;
 &lt;p&gt;For some reason the local server is not updating.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <link>in-the-datas-own-words.netlify.app/posts/my-first-post/</link>
       <pubDate>Sat, 26 Apr 2025 18:15:23 -0400</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <guid>in-the-datas-own-words.netlify.app/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text. This is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;First post yay!&lt;/p&gt;
 &lt;p&gt;If I edit here will it show up on the localhost server? It does!&lt;/p&gt;
@@ -43,9 +43,9 @@
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>in-the-datas-own-words.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>in-the-datas-own-words.netlify.app/about/</guid>
       <description>&lt;p&gt;Hi! My name is Drew Sikkink. I started this blog because I missed making my own arguments. While I cannot make these arguments without the research and opinions of those more knowledgable than me, my understanding of issues has suffered because all I do is read and listen. Without engaging topics with my own words and thoughts, I cannot truly understand the problem. Enter &amp;ldquo;In the Data&amp;rsquo;s Own Words.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;This name was inspired by a quote from Ronald Coase, a British economist who won the Nobel prize in 1991. Coase cautioned against approaching the data with previously established biases and hacking away at anaylses until the theory was confirmed. In his own words: &amp;ldquo;if you torture the data long enough, it will confess to anything.&amp;rdquo; His actual quote may have been &amp;ldquo;&amp;hellip; nature will confess,&amp;rdquo; but either way the warning is clear.&lt;/p&gt;</description>
     </item>

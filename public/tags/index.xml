@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on In the Data&#39;s Own Words</title>
-    <link>//localhost:1313/tags/</link>
+    <link>in-the-datas-own-words.netlify.app/tags/</link>
     <description>Recent content in Tags on In the Data&#39;s Own Words</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 00:13:49 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="in-the-datas-own-words.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yeah Man</title>
-      <link>//localhost:1313/tags/yeah-man/</link>
+      <link>in-the-datas-own-words.netlify.app/tags/yeah-man/</link>
       <pubDate>Thu, 01 May 2025 00:13:49 -0400</pubDate>
-      <guid>//localhost:1313/tags/yeah-man/</guid>
+      <guid>in-the-datas-own-words.netlify.app/tags/yeah-man/</guid>
       <description></description>
     </item>
   </channel>
