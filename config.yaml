@@ -1,4 +1,4 @@
-baseURL: "www.in-the-datas-own-words.netlify.app"
+baseURL: "/"
 languageCode: "en-us"
 title: "In the Data's Own Words"
 theme: "PaperMod"
