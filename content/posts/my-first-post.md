@@ -4,10 +4,10 @@ draft = false
 title = 'My First Post'
 +++
 
-## Introduction
-
 This is **bold** text. This is *emphasized* text. 
 
 First post yay!
 
 If I edit here will it show up on the localhost server? It does!
+
+Why does the server still show an Introduciton header?

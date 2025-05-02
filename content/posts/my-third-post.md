@@ -4,6 +4,4 @@ draft = false
 title = 'My Third Post'
 +++
 
-# This is my third post
-
-I don't know why the theme isn't working. 
+The theme is working!

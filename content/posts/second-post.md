@@ -4,6 +4,6 @@ draft = false
 title = 'Second Post'
 +++
 
-# My Second Post
-
 This is my second post. It is not in the content/posts folder. It is just in the content folder. 
+
+For some reason the local server is not updating. 

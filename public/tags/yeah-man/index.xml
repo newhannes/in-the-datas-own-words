@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yeah Man on In the Data&#39;s Own Words</title>
+    <link>//localhost:1313/tags/yeah-man/</link>
+    <description>Recent content in Yeah Man on In the Data&#39;s Own Words</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:13:49 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/yeah-man/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/posts/test/</link>
+      <pubDate>Thu, 01 May 2025 00:13:49 -0400</pubDate>
+      <guid>//localhost:1313/posts/test/</guid>
+      <description>&lt;h2 id=&#34;my-fourth-post-i-believe&#34;&gt;My Fourth Post I believe?&lt;/h2&gt;
+&lt;p&gt;Can this work?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

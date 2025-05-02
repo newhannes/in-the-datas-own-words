@@ -1,26 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on The Ordinary Business of Life</title>
+    <title>Posts on In the Data&#39;s Own Words</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on The Ordinary Business of Life</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Posts on In the Data&#39;s Own Words</description>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 23:09:18 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:13:49 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/posts/test/</link>
+      <pubDate>Thu, 01 May 2025 00:13:49 -0400</pubDate>
+      <guid>//localhost:1313/posts/test/</guid>
+      <description>&lt;h2 id=&#34;my-fourth-post-i-believe&#34;&gt;My Fourth Post I believe?&lt;/h2&gt;
+&lt;p&gt;Can this work?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Third Post</title>
+      <link>//localhost:1313/posts/my-third-post/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:20 -0400</pubDate>
+      <guid>//localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;The theme is working!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second Post</title>
       <link>//localhost:1313/posts/second-post/</link>
       <pubDate>Sun, 27 Apr 2025 23:09:18 -0400</pubDate>
       <guid>//localhost:1313/posts/second-post/</guid>
-      <description>&lt;h1 id=&#34;my-second-post&#34;&gt;My Second Post&lt;/h1&gt;&#xA;&lt;p&gt;This is my second post. It is not in the content/posts folder. It is just in the content folder.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my second post. It is not in the content/posts folder. It is just in the content folder.&lt;/p&gt;
+&lt;p&gt;For some reason the local server is not updating.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 26 Apr 2025 18:15:23 -0400</pubDate>
       <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text. This is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;First post yay!&lt;/p&gt;&#xA;&lt;p&gt;If I edit here will it show up on the localhost server? It does!&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text. This is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;First post yay!&lt;/p&gt;
+&lt;p&gt;If I edit here will it show up on the localhost server? It does!&lt;/p&gt;
+&lt;p&gt;Why does the server still show an Introduciton header?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
