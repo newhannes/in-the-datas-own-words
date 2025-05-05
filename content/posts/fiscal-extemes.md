@@ -1,7 +1,7 @@
 ---
 date: '2025-05-05T00:13:49-04:00'
 draft: false
-title: 'Our Nation's Fiscal Extremes Part 1'
+title: "Our Nation's Fiscal Extremes Part 1"
 tags: ['federal-budget']
 ---
 ---
