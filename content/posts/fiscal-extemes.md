@@ -1,7 +1,7 @@
 ---
 date: '2025-05-05T00:13:49-04:00'
 draft: false
-title: "Our Nation's Fiscal Extremes Part 1"
+title: "Our Fiscal Crisis Part 1: Overview and History"
 tags: ['federal-budget']
 ---
 ---
@@ -12,7 +12,9 @@ A brief aside (mostly to myself) before jumping into this topic. I can struggle 
 
 #### Introduction
 
-The national debt is not a very approachable topic for most Americans. Thanksgiving political discussions would be about as dry as the holdiday's talisman dish (turkey is just not good folks) if family members only debated the accumulation of gross national debt in our nation's history. While the reasons behind this accumulation are more likely to cause sparks, to the average discusser the impact of $36 trillion in debt is less interesting fare. There are multiple reasons for why the national debt is not as charged of an issue as immigration, abortion, higher education, or welfare. I will attempt to address some of these reasons in this forthcoming series on our nation's fiscal extremes. This first post will address two reasons I believe the topic isn't as debated as it should be. First, people do not have a reference level for what $36 trillion in debt means. Second, people do not understand that this debt is the result of a trajectory -- and a trajectory that worsens as we look into the future. The following sections will explore the historical and projected data for three metrics: deficits, gross national debt, and gross debt as a percentage of our nation's economy. 
+The national debt is not a very approachable topic for most Americans. Thanksgiving political discussions would be about as dry as the holdiday's talisman dish (turkey is just not good folks) if family members only debated the accumulation of gross national debt in our nation's history. While the reasons behind this accumulation are more likely to cause sparks, to the average discusser the impact of $36 trillion in debt is less interesting fare. Apparently, a majority of voters are concerned about the debt, with the Peterson Institute [finding](https://www.pgpf.org/press/2025-04-fci-press-release/) 75 percent of voters think addressing the debt should be a top-three priority for the president and Congress. I have some doubts on this conviction however and am going to continue with this blog post.
+
+There are multiple reasons for why the national debt is not as charged of an issue as immigration, abortion, higher education, or welfare. I will attempt to address some of these reasons in this forthcoming series on our nation's fiscal extremes. This first post will address two reasons I believe the topic isn't as debated as it should be. First, people do not have a reference level for what $36 trillion in debt means. Second, people do not understand that this debt is the result of a trajectory -- and a trajectory that worsens as we look into the future. The following sections will explore the historical and projected data for three metrics: deficits, gross national debt, and gross debt as a percentage of our nation's economy. 
 
 #### Deficits
 
@@ -34,6 +36,18 @@ This section was mostly a historical trip through the past 40 or so years of fed
 
 #### Debt
 <!--- talk about interest payments -->
+What do those deficits do? They accumulate into debt. This section will briefly trace the history of our national debt then discuss why this accumulation is an issue. 
+
+![images](/images/federal-budget/debt.svg)
+
+The gross national debt reached $1 trillion in 1982. Twenty-six years later it hit $10 trillion in 2008. The next milestone, $20 trillion, was met nine years later in 2017. Reaching $30 trillion in 2022 took five years. CBO projects the $40 trillion milestone will be hit in 2027, another five year window but one that is not expected to include a global pandemic. Long story short: debt milestones are coming at an increasing rate. 
+
+It is about time I started offering some more comprehensive reasons for why you should care about debt and deficits. This topic is worthy of a standalone post but I will briefly go through three broad reasons.
+
+1. Stymies economic growth
+When the government spends more than it collects, it must borrow the cash to cover that deficit. It does so by issuing debt through the Treasury and selling that debt to domestic and foreign investors. These investors exchange dollars for Treasury securities, choosing the risk-free income promised by government debt. This process reduces investment in the economy, harming long-term growth. Resources that would go to growing the capital stock are instead used to fund government expenditures. Businesses choose government debt over building a new factory. CBO analysis [found](https://www.cbo.gov/publication/45140) that for every dollar increase in the federal deficit, private investment decreases by 33 cents. As large deficits persist, the government requires more and more buyers for its debt. To lure more buyers, it must offer a higher interest rate. This higher rate increases the attractiveness of government debt relative to other investments and further drags down growth.     
+2. Rising interest costs steal more budget resources
+3. Burdens future generations
 
 #### Debt to GDP
 <!-- talk about crowding out private investment, limiting future growth -->
