@@ -18,7 +18,7 @@ The national debt is not a very approachable topic for most Americans. Thanksgiv
 
 You can't have debt without deficits. So our exploration will begin here. A deficit is incurred when spending exceeds revenue. In the government's case, this occurs when the tax revenues from individuals and corporations are insufficient to cover expenditures on federal programs. A future post will look into this mismatch in more detail but for now we will just look at the result of this imbalance. The figure below depicts historical federal deficits since 1980 and projected deficits from the Congressional Budget Office all the way to 2055. The data are recorded for fiscal years (a fiscal year runs October - September, so fiscal year 2024 ended September 30th, 2024).
 
-![deficits](/static/images/federal-budget/deficits.svg)
+![deficits](/images/federal-budget/deficits.svg)
 
 
 #### Debt
