@@ -11,12 +11,11 @@ params:
       Also, I sometimes thought-dump. Those are just in my own words. 
   showBreadcrumbs: true
   socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
     - name: twitter
       url: "https://twitter.com/"
     - name: github
       url: "https://github.com/"
+    ShowReadingTime: true
 menu:
   main:
     - identifier: about
