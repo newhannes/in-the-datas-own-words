@@ -35,7 +35,7 @@ Before approaching analysis of recent immigration trends in the United States, I
 Does the data around the surge in immigration support Banerjee and Duflo's view? Or are Republican messaging points more on target in this case? What are economists saying? Let's explore!
 
 #### The Situation
-I have mentioned a "recent surge in immigration" in the US several times but haven't explained what I am vaguely referencing. 
+I have mentioned a "recent surge in immigration" in the US several times but haven't explained what I am vaguely referencing. In their chapter, Banerjee and Duflo argue that despite the public's heightened concern over immigrant hordes, the share of immigrants globally is roughly unchanged from its level in the 20th century. This is not true of the United States.  
 
 #### Expert Views
 
