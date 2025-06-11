@@ -12,6 +12,8 @@ A brief aside (mostly to myself) before jumping into this topic. I can struggle 
 
 Addition after finishing first draft: Whew. That was way longer than I intended. I shouldn't have chosen such a broad topic for my first post. There is simply too much to say and I feel this post is seriously inadequate. I also struggled to find my tone/audience through the piece. Is this to people who have never heard of the debt before? Is this to somewhat informed citizens who read their news? Is it for individuals with an undergrad-level understanding of macroeconomics? I think I struggled to have a consistent voice/tone. Generally, I want to take a more relaxed voice on this blog, though it is hard not to lean into a dry/more academic tone when talking about the national debt.
 
+Lanuage tighting.
+
 ---
 
 ### Introduction
