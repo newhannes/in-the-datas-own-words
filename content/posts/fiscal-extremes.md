@@ -6,15 +6,6 @@ tags: ['federal-budget', 'macroeconomics']
 author: "Drew Sikkink"
 ShowToc: true
 ---
----
-
-A brief aside (mostly to myself) before jumping into this topic. I can struggle to reach the finishline on some projects. Often, the reason for this is because I continue to push the finishline further away, striving for perfection. In this blog, I want to push back against this tendency. I am not going to be able to fully address issues like immigration, trade, vaccines, and our nation's impending fiscal crisis in a blog post. Instead, I will just keep producing content. In *Atomic Habits*, James Clear makes an argument for quantity over quality. He notes that it if you continue to output products (whatever that may look like), you are bound to hit gold in some of them. Rather then spending excessive time on one project, keep things moving and your quality will improve as you produce. That is the strategy I am bringing to *In the Data's Own Words*. I feel especially pressured to make this first post a fully comprehensive, no-stone-unturned, production but will instead rip the bandaid off and let the words flow. So, with the caveat that this post is woefully inadequate but such inadequacies will be addressed in my future work, let's look at the fiscal course of our nation!
-
-Addition after finishing first draft: Whew. That was way longer than I intended. I shouldn't have chosen such a broad topic for my first post. There is simply too much to say and I feel this post is seriously inadequate. I also struggled to find my tone/audience through the piece. Is this to people who have never heard of the debt before? Is this to somewhat informed citizens who read their news? Is it for individuals with an undergrad-level understanding of macroeconomics? I think I struggled to have a consistent voice/tone. Generally, I want to take a more relaxed voice on this blog, though it is hard not to lean into a dry/more academic tone when talking about the national debt.
-
-Lanuage tighting.
-
----
 
 ### Introduction
 
