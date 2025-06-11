@@ -7,16 +7,16 @@ params:
   homeInfoParams:
     Title: "Stories the data wants to tell."
     Content: >
-      A collection of stories told by asking the data nicely to speak its mind. No torture required.
+      A collection of stories told by nicely asking the data to speak its mind. No torture required.
       Also, I sometimes thought-dump. Those are just in my own words. 
   showBreadcrumbs: true
   socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
     - name: twitter
       url: "https://twitter.com/"
     - name: github
       url: "https://github.com/"
+  ShowReadingTime: true
+
 menu:
   main:
     - identifier: about
